@@ -1,2 +1,2 @@
 # Not Not Run
- A unity brain teaser game
+ A brain teaser game made in Unity.
